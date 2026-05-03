@@ -81,24 +81,6 @@ This app follows the **Elm Architecture** pattern used by Bubble Tea:
 - **Update** — handles key events and updates the model
 - **View** — renders the current state to the terminal
 
----
-
-## 📸 Preview
-
-```
-┌─────────────────────────────┐
-│        📝 My Todos          │
-├─────────────────────────────┤
-│  ▶ [ ] Buy groceries        │
-│    [✓] Read Go docs         │
-│    [ ] Build a TUI app      │
-├─────────────────────────────┤
-│ a: add  d: delete  q: quit  │
-└─────────────────────────────┘
-```
-
----
-
 ## 📄 License
 
 MIT License — feel free to use and modify.
