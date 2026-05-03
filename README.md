@@ -1,10 +1,10 @@
-# 📝 go-tui-todo
+# go-tui-todo
 
 A simple, interactive terminal-based todo list built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) — a Go framework for building elegant TUI (Terminal UI) applications.
 
 ---
 
-## ✨ Features
+## Features
 
 - Add new todo items
 - Mark todos as complete / incomplete
@@ -14,7 +14,7 @@ A simple, interactive terminal-based todo list built with [Bubble Tea](https://g
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Tool                                                     | Purpose                                    |
 | -------------------------------------------------------- | ------------------------------------------ |
@@ -25,7 +25,7 @@ A simple, interactive terminal-based todo list built with [Bubble Tea](https://g
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -59,7 +59,7 @@ go run .
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 go-tui-todo/
@@ -73,7 +73,7 @@ go-tui-todo/
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 This app follows the **Elm Architecture** pattern used by Bubble Tea:
 
@@ -81,6 +81,6 @@ This app follows the **Elm Architecture** pattern used by Bubble Tea:
 - **Update** — handles key events and updates the model
 - **View** — renders the current state to the terminal
 
-## 📄 License
+## License
 
 MIT License — feel free to use and modify.
