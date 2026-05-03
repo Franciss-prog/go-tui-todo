@@ -66,7 +66,7 @@ go-tui-todo/
 ├── main.go         # Entry point
 ├── model.go        # Bubble Tea model (state, update, view)
 ├── todo.go         # Todo item struct and helpers
-├── styles.go       # Lip Gloss styles
+├── view.go         # Bubble Tea view
 ├── go.mod
 └── go.sum
 ```
