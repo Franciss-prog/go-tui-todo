@@ -105,10 +105,6 @@ MIT License — feel free to use and modify.
 
 ---
 
-## 🙌 Acknowledgements
-
-- [Charm](https://charm.sh/) for the amazing Bubble Tea ecosystem
-
 ```
 
 ```
