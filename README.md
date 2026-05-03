@@ -102,5 +102,3 @@ This app follows the **Elm Architecture** pattern used by Bubble Tea:
 ## 📄 License
 
 MIT License — feel free to use and modify.
-
----
